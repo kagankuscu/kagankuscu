@@ -29,4 +29,5 @@ I am open to new opportunities, collaborations, and sharing knowledge with fello
 - **LinkedIn**: [Kagan Kuscu](https://www.linkedin.com/in/kagan-kuscu/)
 - **GitHub**: [Kagan Kuscu](https://github.com/kagankuscu)
 - **Instagram**: [Kagan Kuscu](https://www.instagram.com/kagan_kuscu/)
+  
 Thank you for considering my profile. I look forward to contributing to your project with my skills and expertise in .NET backend development.
