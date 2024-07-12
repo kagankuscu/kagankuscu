@@ -25,6 +25,7 @@ I'm Kagan Kuscu, a dedicated and proficient .NET Backend Developer with a passio
 
 I am open to new opportunities, collaborations, and sharing knowledge with fellow developers. Feel free to reach out to me through the following channels:
 
+- **Email**: [Kagan Kuscu](kagan@kuscu.net.tr)
 - **Email**: [Kagan Kuscu](kuscukagan@gmail.com)
 - **LinkedIn**: [Kagan Kuscu](https://www.linkedin.com/in/kagan-kuscu/)
 - **GitHub**: [Kagan Kuscu](https://github.com/kagankuscu)
