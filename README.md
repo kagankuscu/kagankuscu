@@ -1,13 +1,34 @@
 # Kagan Kuscu - .NET Backend Developer
+[![](https://visitcount.itsvg.in/api?id=Kagankuscu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 👋 Introduction
 
 I'm Kagan Kuscu, a dedicated and proficient .NET Backend Developer with a passion for building scalable, high-performance web applications. My expertise lies in leveraging the power of .NET Core and related technologies to create robust backend solutions that meet and exceed the demands of modern web applications. With a commitment to clean code and architectural best practices, I aim to deliver solutions that are not only effective but also maintainable and scalable.
 
-## 🛠️ Core Skills and Technologies
 
-### Languages
-- **C#**: Advanced proficiency in C#, with extensive experience in utilizing its powerful features to create efficient, reliable backend logic.
+# 💻 Tech Stack:
+<div align="center">
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&color=blue" />
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+</div>
+
+## 🛠️ Core Skills and Technologies
 
 ### Frameworks & Libraries
 - **.NET Core**: Deep understanding of the .NET ecosystem, specializing in .NET Core for cross-platform backend services. Experience in migrating legacy .NET Framework applications to .NET Core.
@@ -25,10 +46,18 @@ I'm Kagan Kuscu, a dedicated and proficient .NET Backend Developer with a passio
 
 I am open to new opportunities, collaborations, and sharing knowledge with fellow developers. Feel free to reach out to me through the following channels:
 
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/kagan_kuscu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kagan-kuscu/) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kagankuscu)
+
 - **Email**: kagan@kuscu.net.tr
-- **Email**: kuscukagan@gmail.com
-- **LinkedIn**: [Kagan Kuscu](https://www.linkedin.com/in/kagan-kuscu/)
-- **GitHub**: [Kagan Kuscu](https://github.com/kagankuscu)
-- **Instagram**: [Kagan Kuscu](https://www.instagram.com/kagan_kuscu/)
-  
+- **Gmail**: kuscukagan@gmail.com
+
 Thank you for considering my profile. I look forward to contributing to your project with my skills and expertise in .NET backend development.
+
+
+# 📊 GitHub Stats:
+<div align="center">
+    <img style="width: 60vh" src="https://github-readme-stats.vercel.app/api?username=Kagankuscu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+    <img style="width: 60vh" src="https://github-readme-streak-stats.herokuapp.com/?user=Kagankuscu&theme=dark&hide_border=false" />
+    <img style="width: 60vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kagankuscu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
