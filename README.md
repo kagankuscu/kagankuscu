@@ -45,7 +45,7 @@ I am open to new opportunities, collaborations, and sharing knowledge with fello
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/kagan_kuscu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kagan-kuscu/) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kagankuscu)
 
-- **Email**: kagan@kuscu.net.tr
+- **Email**: contact@kagankuscu.com
 - **Gmail**: kuscukagan@gmail.com
 
 Thank you for considering my profile. I look forward to contributing to your project with my skills and expertise in .NET backend development.
